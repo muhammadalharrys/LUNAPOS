@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-SU-05 - user register with an invalid data a number phone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52a3399c-eb62-42e5-a3dc-356e332fb3bf</testCaseGuid>
+</TestCaseEntity>

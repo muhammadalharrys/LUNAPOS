@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-SU-04 - user register with an invalid data domain email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>035b5084-d8c9-4b95-bccf-38c5aeb27cf2</testCaseGuid>
+</TestCaseEntity>
