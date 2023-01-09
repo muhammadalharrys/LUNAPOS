@@ -17,3 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+'user open browser web lunapos.app'
+WebUI.openBrowser('lunapos.app')
+
+'user clicks button Daftar'
+WebUI.click(findTestObject('Sign Up/btn-daftar'))
+
+'user insert nama depan'
+WebUI.setText(findTestObject('Sign Up/field-nama-depan'), 'Dinda ')
+
+'user insert nama belakang '
+WebUI.setText(findTestObject('Sign Up/field-nama-belakang'), 'Kanya Dewi')
+
+'user insert username '
+WebUI.setText(findTestObject('Sign Up/field-username'), 'ddindadimana')
+
+'user insert email'
+WebUI.setText(findTestObject('Sign Up/field-email'), 'page@getnadas.com')
+
+'user insert No. Hp '
+WebUI.setText(findTestObject('Sign Up/field-no-hp'), '021021021')
+
+'user insert less password character (ex:12345)'
+WebUI.setEncryptedText(findTestObject('Sign Up/field-password'), 'iGDxf8hSRT4=')
+
+'user insert konfirmasi password '
+WebUI.setEncryptedText(findTestObject('Sign Up/field-konfirmasi-password'), 'iGDxf8hSRT4=')
+
+'click daftar'
+WebUI.click(findTestObject('Sign Up/btn-daftar-page-regist'))
+
+WebUI.verifyElementVisible(findTestObject('Sign Up/Error Verifikasi/less password character'))
+
