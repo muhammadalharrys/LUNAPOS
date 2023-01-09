@@ -17,3 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+'user open browser web lunapos.app'
+WebUI.openBrowser('lunapos.app')
+
+'user clicks button Daftar'
+WebUI.click(findTestObject('Sign Up/btn-daftar'))
+
+'user insert nama depan'
+WebUI.setText(findTestObject('Sign Up/field-nama-depan'), 'Dinda ')
+
+'user insert nama belakang '
+WebUI.setText(findTestObject('Sign Up/field-nama-belakang'), 'Kanya Dewi')
+
+'user insert username '
+WebUI.setText(findTestObject('Sign Up/field-username'), 'indadimanasaja')
+
+'user insert email'
+WebUI.setText(findTestObject('Sign Up/field-email'), 'age@getnadace.com')
+
+'user insert No. Hp '
+WebUI.setText(findTestObject('Sign Up/field-no-hp'), '021021021')
+
+'user insert password'
+WebUI.setEncryptedText(findTestObject('Sign Up/field-password'), 'aeHFOx8jV/A=')
+
+'user insert an invalid konfirmasi password '
+WebUI.setEncryptedText(findTestObject('Sign Up/field-konfirmasi-password'), 'X8/+aF4geWQ=')
+
+'click daftar'
+WebUI.click(findTestObject('Sign Up/btn-daftar-page-regist'))
+
+WebUI.verifyElementVisible(findTestObject('Sign Up/Error Message/Harap periksa kembali formulir di bawah untuk kesalahan'))
+

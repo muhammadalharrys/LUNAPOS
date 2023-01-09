@@ -47,5 +47,5 @@ WebUI.setEncryptedText(findTestObject('Sign Up/field-konfirmasi-password'), 'iGD
 'click daftar'
 WebUI.click(findTestObject('Sign Up/btn-daftar-page-regist'))
 
-WebUI.verifyElementVisible(findTestObject('Sign Up/Error Verifikasi/less password character'))
+WebUI.verifyElementVisible(findTestObject('Sign Up/Error Message/less password character'))
 
