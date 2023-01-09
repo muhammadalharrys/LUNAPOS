@@ -21,3 +21,6 @@ WebUI.openBrowser('lunapos.app')
 
 WebUI.click(findTestObject('Sign Up/btn-daftar'))
 
+'user register with empty data\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n'
+WebUI.click(findTestObject('Sign Up/btn-daftar-page-regist'))
+
