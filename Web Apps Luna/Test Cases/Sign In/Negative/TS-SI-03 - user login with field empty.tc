@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS-SI-03 - user login with field empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa14359c-dfa9-4eae-8c27-6f24ac3d85e1</testCaseGuid>
+</TestCaseEntity>
