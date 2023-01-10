@@ -23,8 +23,8 @@ WebUI.openBrowser('lunapos.app')
 'click button forget password'
 WebUI.click(findTestObject('Forget Password/btn - forget password'))
 
-'user insert an invalid email'
-WebUI.setText(findTestObject('Forget Password/field-alamat-email'), 'uvuvwe@gmail.kom')
+'user insert valid an email'
+WebUI.setText(findTestObject('Forget Password/field-alamat-email'), 'wonderlandcafejkt@gmail.com')
 
 'user click button kirim link'
 WebUI.click(findTestObject('Forget Password/btn-kirim-link'))
