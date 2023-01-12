@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Mobile.startApplication('C:\\Users\\Harrys\\Auto Luna\\Mobile Apps Luna\\APK\\Luna Tablet v27 - prod.apk', false)
+
+Mobile.setText(findTestObject('Sign Up/field - Nama Lengkap'), '1', 0)
+
+Mobile.setText(findTestObject('Sign Up/field - Email'), 'tai@tai.com', 0)
+
+Mobile.setText(findTestObject('Sign Up/field - No.Hp'), '12345', 0)
+
+Mobile.setEncryptedText(findTestObject('Sign Up/field - password'), 'aeHFOx8jV/A=', 0)
+
+Mobile.tap(findTestObject('Sign Up/btn-eye pass'), 0)
+
+Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Sign Up/btn - Buat Akun'), 0)
+

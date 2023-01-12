@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('C:\\Users\\Harrys\\Auto Luna\\Mobile Apps Luna\\APK\\Luna Tablet v27 - prod.apk', false)
 
-Mobile.tap(findTestObject('Sign Up/tombol - Buat Akun'), 0)
+Mobile.tap(findTestObject('Sign Up/btn - Buat Akun'), 0)
 
