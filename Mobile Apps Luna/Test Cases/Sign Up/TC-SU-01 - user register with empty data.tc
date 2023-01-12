@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-SU-01 - user register with empty data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49d1fef5-c78c-4f49-9b6b-1f8ad03e70a9</testCaseGuid>
+</TestCaseEntity>
