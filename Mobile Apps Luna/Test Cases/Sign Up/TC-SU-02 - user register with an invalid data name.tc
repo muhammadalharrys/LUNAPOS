@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-SU-02 - user register with an invalid data name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd386498-1bc3-467a-ba66-51e11ac56f44</testCaseGuid>
+</TestCaseEntity>
