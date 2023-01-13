@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS-SI-03 - user login with valid data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be819b31-7731-4627-b507-44c686ca388e</testCaseGuid>
+</TestCaseEntity>
