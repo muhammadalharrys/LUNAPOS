@@ -17,3 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Mobile.startApplication('C:\\\\Users\\\\Harrys\\\\Auto Luna\\\\Mobile Apps Luna\\\\APK\\\\Luna Tablet v27 - prod.apk', false)
+
+Mobile.tap(findTestObject('Sign In/btn-Masuk page regist'), 0)
+
+Mobile.setText(findTestObject('Sign In/field - Email'), 'wonderlandcafejkt@gmail.com', 0)
+
+Mobile.setEncryptedText(findTestObject('Sign In/field - Password'), 'aeHFOx8jV/A=', 0)
+
+Mobile.tap(findTestObject('Sign In/btn-login'), 0)
+
