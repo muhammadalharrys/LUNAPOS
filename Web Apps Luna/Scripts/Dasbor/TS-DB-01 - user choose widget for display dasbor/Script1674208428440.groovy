@@ -33,3 +33,13 @@ WebUI.click(findTestObject('Dasbor/widget/low stok'))
 
 WebUI.click(findTestObject('Dasbor/widget/sales'))
 
+WebUI.click(findTestObject('Dasbor/widget/avg sales per bill'))
+
+WebUI.click(findTestObject('Dasbor/widget/avg sales per pax'))
+
+WebUI.click(findTestObject('Dasbor/widget/gross margin'))
+
+WebUI.click(findTestObject('Dasbor/widget/gross profit'))
+
+WebUI.click(findTestObject('Dasbor/widget/gross sales'))
+
