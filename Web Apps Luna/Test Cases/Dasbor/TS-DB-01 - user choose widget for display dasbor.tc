@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS-DB-01 - user choose widget for display dasbor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7a9ac13-1d98-4859-b9f2-a009ccd8b40e</testCaseGuid>
+</TestCaseEntity>
