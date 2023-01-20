@@ -43,3 +43,11 @@ WebUI.click(findTestObject('Dasbor/widget/gross profit'))
 
 WebUI.click(findTestObject('Dasbor/widget/gross sales'))
 
+WebUI.click(findTestObject('Dasbor/widget/net sales'))
+
+WebUI.click(findTestObject('Dasbor/widget/total bill'))
+
+WebUI.click(findTestObject('Dasbor/widget/total pax'))
+
+WebUI.click(findTestObject('Dasbor/widget/top category by amount'))
+

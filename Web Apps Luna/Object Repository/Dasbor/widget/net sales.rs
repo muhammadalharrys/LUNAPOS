@@ -4,6 +4,20 @@
    <name>net sales</name>
    <tag></tag>
    <elementGuidId>b055fe55-b31d-4c51-aad6-55bad132e396</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'ng-star-inserted ui-chkbox-label ui-label-active']</value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted ui-chkbox-label ui-label-active</value>
+      <webElementGuid>109e373b-b358-415f-a2d4-4be838734e7a</webElementGuid>
+   </webElementProperties>
 </WebElementEntity>
