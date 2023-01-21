@@ -51,3 +51,13 @@ WebUI.click(findTestObject('Dasbor/widget/total pax'))
 
 WebUI.click(findTestObject('Dasbor/widget/top category by amount'))
 
+WebUI.click(findTestObject('Dasbor/widget/top category product by qty'))
+
+WebUI.click(findTestObject('Dasbor/widget/top customer'))
+
+WebUI.click(findTestObject('Dasbor/widget/top outlet'))
+
+WebUI.click(findTestObject('Dasbor/widget/top product by amount'))
+
+WebUI.click(findTestObject('Dasbor/widget/top product by qty'))
+

@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('lunapos.app')
 
-WebUI.setText(findTestObject('Sign In/field-alamat-email'), 'wonderlandcafejkt@gmail.com')
+WebUI.setText(findTestObject('Sign In/field-alamat-email'), 'new@getnada.com')
 
 WebUI.setEncryptedText(findTestObject('Sign In/field-kata-sandi'), 'aeHFOx8jV/A=')
 
