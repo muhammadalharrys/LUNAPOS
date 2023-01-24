@@ -17,13 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('lunapos.app')
 
-WebUI.setText(findTestObject('Sign In/field-alamat-email'), 'wonderlandcafejkt@gmail.com')
-
-WebUI.setEncryptedText(findTestObject('Sign In/field-kata-sandi'), 'aeHFOx8jV/A=')
-
-WebUI.click(findTestObject('Sign In/btn-login'))
 
 WebUI.click(findTestObject('Dasbor/widget/close banner iklan'))
 

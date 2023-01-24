@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LM228 - Tidak muncul filter di Field (SEMUA) pada menu Transaksi-Penjualan dan Transaksi-Pembelian (WebMerchant)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee5c0dbf-3e88-449e-9621-0ed84b8ee80f</testCaseGuid>
+</TestCaseEntity>

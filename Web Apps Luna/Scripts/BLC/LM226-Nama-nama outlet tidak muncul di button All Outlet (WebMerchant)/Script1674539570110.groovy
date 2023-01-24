@@ -17,11 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('lunapos.app')
+WebUI.callTestCase(findTestCase('Sign In/Positive/TS-SI-04 - user login with valid data'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Sign In/field-alamat-email'), 'wonderlandcafejkt@gmail.com')
+WebUI.click(findTestObject('Dasbor/widget/close banner iklan'))
 
-WebUI.setEncryptedText(findTestObject('Sign In/field-kata-sandi'), 'aeHFOx8jV/A=')
+WebUI.click(findTestObject('Dasbor/Page_Luna POS/a_Wonderland Cafe  Resto'))
 
-WebUI.click(findTestObject('Sign In/btn-login'))
+WebUI.delay(5)
 

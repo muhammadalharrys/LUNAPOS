@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>LM227 - Akun baru daftar tidak bisa login ke Backoffice muncul notif error (You Do Not Have Access) WebMerchant</name>
+   <name>LM228</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>4c0ba9d6-898a-449c-92c6-b7b369265ad8</testSuiteGuid>
+   <testSuiteGuid>7ddc0d24-3c6c-4c21-acb1-a253fd365f6b</testSuiteGuid>
    <testCaseLink>
-      <guid>8991cc2d-dcd0-4cf0-b441-3e049f034f32</guid>
+      <guid>33753344-a97b-4d71-bbe2-994a85488f74</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Sign In/Positive/TS-SI-04 - user login with valid data</testCaseId>
+      <testCaseId>Test Cases/BLC/LM228 - Tidak muncul filter di Field (SEMUA) pada menu Transaksi-Penjualan dan Transaksi-Pembelian (WebMerchant)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

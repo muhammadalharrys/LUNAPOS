@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn sub trx sales</name>
+   <tag></tag>
+   <elementGuidId>e3893cbf-85b3-48aa-88f8-b7237d2715bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-chevron-down.navbar-icon.open</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dropdown-nested']/li/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e7567296-1b1c-4b82-9162-f93314eb0f99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-chevron-down navbar-icon open</value>
+      <webElementGuid>595a6005-059c-4421-aa7b-ac188976286c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-nested&quot;)/li[@class=&quot;ripple ripple-block ng-star-inserted open&quot;]/a[@class=&quot;dropdown-item dropdown-toggle&quot;]/span[@class=&quot;glyphicon glyphicon-chevron-down navbar-icon open&quot;]</value>
+      <webElementGuid>cf4cfec6-6b0c-4a8b-855a-32e92d03b5da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dropdown-nested']/li/a/span</value>
+      <webElementGuid>60ecae1f-49ea-4121-8ab9-885a0f8c56a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li/a/span</value>
+      <webElementGuid>cb6b6c67-6bf9-402a-bce4-2f76d08ddccc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
