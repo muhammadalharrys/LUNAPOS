@@ -21,7 +21,5 @@ WebUI.callTestCase(findTestCase('Sign In/Positive/TS-SI-04 - user login with val
 
 WebUI.click(findTestObject('Dasbor/widget/close banner iklan'))
 
-WebUI.click(findTestObject('Dasbor/filter all outlet'))
-
-WebUI.delay(5)
+WebUI.click(findTestObject('Dasbor/button wa cs'))
 
