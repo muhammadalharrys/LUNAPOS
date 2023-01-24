@@ -6,12 +6,12 @@
    <elementGuidId>2e8c1c00-1d8a-4705-a431-be1ecd981478</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[3]/div/div/div/div/div/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.modal-dialog.modal-xl > div.modal-content > div.modal-body > div.modal-header > div.close-modal > span.fa.fa-times</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div/div/div/div/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>

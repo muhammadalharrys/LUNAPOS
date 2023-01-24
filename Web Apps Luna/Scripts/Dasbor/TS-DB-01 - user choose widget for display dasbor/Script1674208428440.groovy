@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 
 
-WebUI.click(findTestObject('Dasbor/widget/close banner iklan'))
+WebUI.click(findTestObject('Dasbor/close banner iklan'))
 
 WebUI.click(findTestObject('Dasbor/widget/btn_widget'))
 

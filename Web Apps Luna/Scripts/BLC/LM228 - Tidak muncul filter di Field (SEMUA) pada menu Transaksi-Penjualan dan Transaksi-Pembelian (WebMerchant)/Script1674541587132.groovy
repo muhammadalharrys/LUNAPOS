@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Sign In/Positive/TS-SI-04 - user login with valid data'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Dasbor/widget/close banner iklan'))
+WebUI.click(findTestObject('Dasbor/close banner iklan'))
 
 WebUI.click(findTestObject('Transaksi/Page_Luna POS/btn-transaksi'))
 

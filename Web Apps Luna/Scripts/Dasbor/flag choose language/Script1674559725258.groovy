@@ -21,7 +21,15 @@ WebUI.callTestCase(findTestCase('Sign In/Positive/TS-SI-04 - user login with val
 
 WebUI.click(findTestObject('Dasbor/close banner iklan'))
 
-WebUI.click(findTestObject('Dasbor/filter all outlet'))
+WebUI.click(findTestObject('Dasbor/flag choose language'))
+
+WebUI.click(findTestObject('Dasbor/bahasa inggris'))
 
 WebUI.delay(5)
+
+WebUI.click(findTestObject('Dasbor/flag choose language'))
+
+WebUI.click(findTestObject('Dasbor/bahasa indonesia'))
+
+WebUI.delay(3)
 
