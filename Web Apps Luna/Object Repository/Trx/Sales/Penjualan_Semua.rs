@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Semua</name>
+   <name>Penjualan_Semua</name>
    <tag></tag>
    <elementGuidId>096a187b-f1c0-4aef-aef0-1aafce772596</elementGuidId>
    <selectorCollection>

@@ -23,9 +23,9 @@ WebUI.click(findTestObject('Dasbor/close banner iklan'))
 
 WebUI.click(findTestObject('Trx/Page_Luna POS/btn-transaksi'))
 
-WebUI.click(findTestObject('Trx/Sales/penjualan'))
+WebUI.click(findTestObject('Trx/Pembelian/Pembelian'))
 
-WebUI.click(findTestObject('Trx/Sales/Penjualan_Semua'))
+WebUI.click(findTestObject('Trx/Pembelian/Pembelian_Semua'))
 
 WebUI.verifyElementVisible(findTestObject('Trx/Page_Luna POS/verifikasi more filter'))
 
