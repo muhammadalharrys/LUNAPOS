@@ -21,13 +21,13 @@ WebUI.callTestCase(findTestCase('Sign In/Positive/TS-SI-04 - user login with val
 
 WebUI.click(findTestObject('Dasbor/close banner iklan'))
 
-WebUI.click(findTestObject('Transaksi/Page_Luna POS/btn-transaksi'))
+WebUI.click(findTestObject('Trx/Page_Luna POS/btn-transaksi'))
 
-WebUI.click(findTestObject('Transaksi/Page_Luna POS/btn sub trx sales'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Transaksi/Page_Luna POS/btn sub sales semua'))
+WebUI.click(findTestObject('null'))
 
-WebUI.verifyElementVisible(findTestObject('Transaksi/Page_Luna POS/verifikasi more filter'))
+WebUI.verifyElementVisible(findTestObject('Trx/Page_Luna POS/verifikasi more filter'))
 
 WebUI.delay(5)
 

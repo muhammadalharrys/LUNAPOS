@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn sub sales semua</name>
+   <name>Semua</name>
    <tag></tag>
-   <elementGuidId>d6613f86-9c9e-4673-a355-19c1bc45c5fd</elementGuidId>
+   <elementGuidId>096a187b-f1c0-4aef-aef0-1aafce772596</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(text(),'Semua')])[2]</value>
+         <value>//a[contains(text(),'Semua')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ef945d24-ece1-4baf-b48d-4257aa6885d9</webElementGuid>
+      <webElementGuid>de8ac6e4-0071-4b7f-8940-169520dd119f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>ce8fec27-195c-487b-9d97-36e51865d9d4</webElementGuid>
+      <webElementGuid>1c669be6-b91d-47dd-bb22-3e5e76a5136d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#/sales/all</value>
-      <webElementGuid>1390f6f3-4736-4243-8d9f-88f804adf350</webElementGuid>
+      <webElementGuid>75a17537-2a88-44b0-b602-105f3f54ea95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Semua </value>
-      <webElementGuid>cbfbad8d-6619-47e6-ba10-661c56699918</webElementGuid>
+      <webElementGuid>adf18fbd-eecc-4ca3-8e59-b50367ec4efd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/bs-dropdown-container[2]/div[@class=&quot;dropdown show open&quot;]/ul[@class=&quot;dropdown-menu ng-star-inserted&quot;]/li[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>e3b3a23a-367d-460a-ada6-eef79f4d97b4</webElementGuid>
+      <webElementGuid>42ddf781-29bb-4abb-86f8-9bb83467ded1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>(//a[contains(text(),'Semua')])[2]</value>
-      <webElementGuid>a4c62f03-81e1-40f2-81fe-ae874d8dc4e2</webElementGuid>
+      <value>//a[contains(text(),'Semua')]</value>
+      <webElementGuid>8296fef7-7e72-48be-b3f7-63e86f97b02e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Chart of Account'])[1]/following::a[1]</value>
-      <webElementGuid>e217ab5a-00c8-4519-8418-8f0cb502fa08</webElementGuid>
+      <webElementGuid>aecce780-d3ea-47d3-8af6-a09e992e3ffe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,31 +78,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kas and Bank'])[1]/following::a[2]</value>
-      <webElementGuid>42c2c0b6-048c-4c0f-827d-9866e304bc51</webElementGuid>
+      <webElementGuid>324fafcd-3e83-429c-a3b4-2845f6bbc75b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order'])[2]/preceding::a[1]</value>
-      <webElementGuid>2fc20e30-8de2-4151-b063-100c8327321d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order'])[1]/preceding::a[1]</value>
+      <webElementGuid>edd17084-6f6f-4c67-9c4f-a00ee4e6328d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice'])[2]/preceding::a[2]</value>
-      <webElementGuid>0517861d-69a9-4e1b-9331-44c7696b19f1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice'])[1]/preceding::a[2]</value>
+      <webElementGuid>705cf36f-70bb-42bf-85ff-7fb46485e38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Semua']/parent::*</value>
+      <webElementGuid>318939d0-38d6-44a7-aa9e-720ef4a30866</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '#/sales/all')])[2]</value>
-      <webElementGuid>8eeaa302-6f64-4d32-ba0e-2edf620d35d3</webElementGuid>
+      <value>//a[contains(@href, '#/sales/all')]</value>
+      <webElementGuid>bcb8d99e-c752-42f0-9e00-5fc1c35d49f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//bs-dropdown-container[2]/div/ul/li/a</value>
-      <webElementGuid>23f778df-2ab6-4b70-9978-f1dc05ec5294</webElementGuid>
+      <webElementGuid>67083ac9-bd87-4164-bf0b-537f1ca0a5e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#/sales/all' and (text() = ' Semua ' or . = ' Semua ')]</value>
-      <webElementGuid>952a3700-9f94-4441-a5f8-3d1c38efc252</webElementGuid>
+      <webElementGuid>487bbd07-8672-426f-bd0d-c4a8ec754c54</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
