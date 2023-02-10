@@ -23,11 +23,9 @@ WebUI.click(findTestObject('Dasbor/close banner iklan'))
 
 WebUI.click(findTestObject('Trx/btn-transaksi'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Trx/Purchase/Pembelian'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Trx/Purchase/Pembelian_Semua'))
 
 WebUI.verifyElementVisible(findTestObject('Trx/verifikasi more filter'))
-
-WebUI.delay(5)
 
