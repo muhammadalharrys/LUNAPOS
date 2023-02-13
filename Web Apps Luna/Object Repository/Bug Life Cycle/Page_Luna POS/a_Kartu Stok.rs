@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kartu Stok</name>
+   <tag></tag>
+   <elementGuidId>abe48b37-0e27-4ae8-960e-48d875cbcb4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-tabpanel-3']/div[3]/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fcc8bde6-5157-43e9-b7c1-4a325ec28f6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mr1</value>
+      <webElementGuid>469ebaef-7203-431d-b81d-d087be5b5f00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/reports/stock-card</value>
+      <webElementGuid>872a1a01-9ce6-48fb-9235-f0d06a843bcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Kartu Stok </value>
+      <webElementGuid>ed3af929-4b3b-4bbb-a03c-165fbc957499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-tabpanel-3&quot;)/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;report-container ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-xs-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 report-container__list-title&quot;]/a[@class=&quot;mr1&quot;]</value>
+      <webElementGuid>e46c02ca-fe60-4c79-be8f-46096ca67744</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-tabpanel-3']/div[3]/div[2]/div/div/a</value>
+      <webElementGuid>e0c3de7c-0137-430c-b64e-cd5b470741ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kartu Stok')]</value>
+      <webElementGuid>5c5a1b4e-13df-4d0f-80e9-9cd5d6e41d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mutasi Barang'])[1]/following::a[2]</value>
+      <webElementGuid>53cfbf95-48a8-4171-9684-c783564e6824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk Stok Rendah'])[1]/following::a[4]</value>
+      <webElementGuid>e7b19f9c-c46a-4758-9469-cf1756f73be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengeluaran Lain Lain'])[1]/preceding::a[2]</value>
+      <webElementGuid>7a1fa272-1173-4cd1-b1e5-0bd1ff865181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendapatan Lain Lain'])[1]/preceding::a[4]</value>
+      <webElementGuid>6b57eb78-5697-4a55-9860-8eebde2d4540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kartu Stok']/parent::*</value>
+      <webElementGuid>a9bdaf32-1a3b-460b-a06d-83c2da37712b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/reports/stock-card')]</value>
+      <webElementGuid>98f41b63-d31b-4b3b-9918-88fba743bb5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-tabpanel[4]/div/div[3]/div[2]/div/div/a</value>
+      <webElementGuid>c35a61c2-3bf0-42e8-bece-ee9c4ee715ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/reports/stock-card' and (text() = ' Kartu Stok ' or . = ' Kartu Stok ')]</value>
+      <webElementGuid>0a1835b7-07ed-431e-9874-9f8aa1a0bb1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

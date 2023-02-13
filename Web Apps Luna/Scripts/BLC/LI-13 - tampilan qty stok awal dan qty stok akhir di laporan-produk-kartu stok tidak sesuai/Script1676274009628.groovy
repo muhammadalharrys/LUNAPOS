@@ -17,3 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Sign In/Positive/TS-SI-04 - user login with valid data'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Dasbor/close banner iklan'))
+
+WebUI.click(findTestObject('Bug Life Cycle/btn-report'))
+
+WebUI.click(findTestObject('Bug Life Cycle/btn-product'))
+
+WebUI.click(findTestObject('Bug Life Cycle/Page_Luna POS/a_Kartu Stok'))
+
+WebUI.click(findTestObject('Bug Life Cycle/Page_Luna POS/button_Terapkan'))
+
