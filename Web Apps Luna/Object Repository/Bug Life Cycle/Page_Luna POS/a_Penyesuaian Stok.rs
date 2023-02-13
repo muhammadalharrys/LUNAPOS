@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Penyesuaian Stok</name>
+   <tag></tag>
+   <elementGuidId>80a50f7a-84b1-40b9-97e2-3b41ca86d11f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dropdown-nested']/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c0071be4-d2ea-492f-895b-ad6149a8d557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/inventory-adjustments</value>
+      <webElementGuid>240b7c30-b86e-43d4-8ad1-59bc8a2d13f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>20a6fecf-5539-46ff-821a-5cb8501e352a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Penyesuaian Stok </value>
+      <webElementGuid>7b76bbf2-e9bf-496c-9c84-5e5301eed3b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-nested&quot;)/li[@class=&quot;ripple ripple-block ng-star-inserted&quot;]/a[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>43da9384-0d68-4069-b210-9fe8729ffa73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dropdown-nested']/li[6]/a</value>
+      <webElementGuid>574567fc-854a-4304-acdb-8747e466cc96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Penyesuaian Stok')]</value>
+      <webElementGuid>0c57ac06-12ae-4a70-a14e-419150ada480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengeluaran Lain-lain'])[1]/following::a[1]</value>
+      <webElementGuid>88d84d55-07c4-4253-ab54-f29de35ad46a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendapatan Lain-lain'])[1]/following::a[2]</value>
+      <webElementGuid>e784fdb1-92f4-422a-bc63-6dd9e083814e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mutasi Barang'])[1]/preceding::a[1]</value>
+      <webElementGuid>1950b76e-8205-4e96-9bf8-a92be38c8309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produksi'])[1]/preceding::a[2]</value>
+      <webElementGuid>3ed9f701-e16e-4d8c-8e3f-ab43874882c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Penyesuaian Stok']/parent::*</value>
+      <webElementGuid>d4acba18-0c64-440e-ad0d-3fbb3a206c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/inventory-adjustments')]</value>
+      <webElementGuid>709ebc0f-4ee8-4a12-adb8-25ba02b67dc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[6]/a</value>
+      <webElementGuid>4e5b8e83-8e39-4506-aee2-cd59313ce383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/inventory-adjustments' and (text() = ' Penyesuaian Stok ' or . = ' Penyesuaian Stok ')]</value>
+      <webElementGuid>39d16f58-3139-4aa6-b2e7-c0e1c18e162a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

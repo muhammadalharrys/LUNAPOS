@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_x_ui-button-icon-left ui-clickable pi pi-caret-down</name>
+   <tag></tag>
+   <elementGuidId>b3b2b990-3be5-44b1-b4a5-c9e67a0889f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[2]/p-autocomplete/span/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-autocomplete-dropdown.ng-tns-c26-18.ui-button.ui-widget.ui-state-default.ui-corner-all.ui-button-icon-only.ng-star-inserted > span.ui-button-icon-left.ui-clickable.pi.pi-caret-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>06e25649-3def-401b-9766-6c274689d670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2ef46e25-0906-4cbb-a10d-234fbd0d5518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-clickable pi pi-caret-down</value>
+      <webElementGuid>b96def22-6084-4533-8d7e-5a51ce179c14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-admin-layout[1]/div[@class=&quot;layout-container&quot;]/main[@class=&quot;main-container&quot;]/section[@class=&quot;container container-lg&quot;]/app-base-rfpage[@class=&quot;ng-star-inserted&quot;]/app-stock-opname-create[@class=&quot;ng-star-inserted&quot;]/app-base-comp[1]/div[@class=&quot;luna-content-wrapper ng-star-inserted&quot;]/app-base-rfentry[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mb4 ng-star-inserted&quot;]/app-stock-opname-form[@class=&quot;ng-star-inserted&quot;]/app-base-comp[1]/div[@class=&quot;column ng-star-inserted&quot;]/div[@class=&quot;ng-pristine ng-star-inserted ng-valid ng-touched&quot;]/table[@class=&quot;table table-bordered mt mb&quot;]/tbody[1]/tr[@class=&quot;pull-row-top ng-pristine ng-valid ng-star-inserted ng-touched&quot;]/td[2]/p-autocomplete[@class=&quot;ng-tns-c26-18 ng-pristine ng-valid ng-touched&quot;]/span[@class=&quot;ng-tns-c26-18 wd-wide ui-autocomplete ui-widget ui-autocomplete-dd&quot;]/button[@class=&quot;ui-autocomplete-dropdown ng-tns-c26-18 ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ng-star-inserted&quot;]/span[@class=&quot;ui-button-icon-left ui-clickable pi pi-caret-down&quot;]</value>
+      <webElementGuid>2cbbd192-4343-4e3e-a121-41c98a372aff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/p-autocomplete/span/button/span</value>
+      <webElementGuid>4a5f4bdb-76c2-42c4-ad8c-9162cfe9a81c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

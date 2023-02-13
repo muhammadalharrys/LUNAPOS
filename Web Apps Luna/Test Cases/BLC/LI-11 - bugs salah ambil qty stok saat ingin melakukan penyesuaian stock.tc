@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LI-11 - bugs salah ambil qty stok saat ingin melakukan penyesuaian stock</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3baecdc1-56b3-4026-9a24-2a9c7ac8c643</testCaseGuid>
+</TestCaseEntity>
