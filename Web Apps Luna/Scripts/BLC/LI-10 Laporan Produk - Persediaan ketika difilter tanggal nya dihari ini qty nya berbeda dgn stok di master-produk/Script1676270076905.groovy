@@ -17,11 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('lunapos.app')
+WebUI.callTestCase(findTestCase('Sign In/Positive/TS-SI-04 - user login with valid data'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Sign In/field-alamat-email'), 'tasialeonardi@gmail.com')
+WebUI.click(findTestObject('Dasbor/close banner iklan'))
 
-WebUI.setEncryptedText(findTestObject('Sign In/field-kata-sandi'), 'kef8ZCKZWL0BwPrOeY9YAg==')
+WebUI.click(findTestObject('Bug Life Cycle/btn-report'))
 
-WebUI.click(findTestObject('Sign In/btn-login'))
+WebUI.click(findTestObject('Bug Life Cycle/btn-product'))
+
+WebUI.click(findTestObject('Bug Life Cycle/Btn-Laporan-Persediaan'))
+
+WebUI.click(findTestObject('Bug Life Cycle/button_Terapkan'))
+
+WebUI.click(findTestObject('Bug Life Cycle/btn-select-date'))
+
+WebUI.click(findTestObject('Bug Life Cycle/select date 13 feb 2022'))
+
+WebUI.click(findTestObject('Bug Life Cycle/button_Terapkan'))
+
+WebUI.scrollToElement(findTestObject('Bug Life Cycle/Page_Luna POS/banana'), 0)
+
+WebUI.verifyElementVisible(findTestObject('Bug Life Cycle/Page_Luna POS/banana'))
 

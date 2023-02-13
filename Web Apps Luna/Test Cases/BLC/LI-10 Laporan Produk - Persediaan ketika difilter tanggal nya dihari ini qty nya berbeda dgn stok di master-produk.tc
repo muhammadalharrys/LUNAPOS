@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LI-10 Laporan Produk - Persediaan ketika difilter tanggal nya dihari ini qty nya berbeda dgn stok di master-produk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>deb75281-942c-462b-91fe-49754e8f7f1c</testCaseGuid>
+</TestCaseEntity>

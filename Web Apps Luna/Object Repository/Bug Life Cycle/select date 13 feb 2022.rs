@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select date 13 feb 2022</name>
+   <tag></tag>
+   <elementGuidId>5abe090f-02b9-4659-969e-7e7589bdcb79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'13')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ui-state-default.ng-tns-c23-8.ui-state-active.ui-state-highlight.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a2681305-b3c6-4b54-9647-36f50d5729ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-state-default ng-tns-c23-8 ui-state-active ui-state-highlight ng-star-inserted</value>
+      <webElementGuid>e1cc6049-3cd5-45a1-a209-8caa7bec1972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>881c8125-bf71-46bf-80d5-27f8b984bc68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>13</value>
+      <webElementGuid>46052562-6139-4418-bf5d-5632e18e3b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-admin-layout[1]/div[@class=&quot;layout-container&quot;]/main[@class=&quot;main-container&quot;]/section[@class=&quot;container container-lg&quot;]/app-base-rfpage[@class=&quot;ng-star-inserted&quot;]/app-reports-inventory-preview[@class=&quot;ng-star-inserted&quot;]/app-base-comp[1]/div[@class=&quot;ng-star-inserted&quot;]/app-base-report[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;well well-lg ng-star-inserted&quot;]/form[@class=&quot;ng-valid ng-touched ng-dirty&quot;]/div[1]/div[@class=&quot;form-group&quot;]/p-calendar[@class=&quot;ng-tns-c23-8 ng-valid ng-touched ui-inputwrapper-filled ng-dirty&quot;]/span[@class=&quot;ng-tns-c23-8 fw ui-calendar ui-calendar-w-btn&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c23-8 ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all ui-shadow ng-star-inserted&quot;]/div[@class=&quot;ui-datepicker-group ui-widget-content ng-tns-c23-8 ng-star-inserted&quot;]/div[@class=&quot;ui-datepicker-calendar-container ng-tns-c23-8 ng-star-inserted&quot;]/table[@class=&quot;ui-datepicker-calendar&quot;]/tbody[@class=&quot;ng-tns-c23-8&quot;]/tr[@class=&quot;ng-tns-c23-8 ng-star-inserted&quot;]/td[@class=&quot;ng-tns-c23-8 ui-datepicker-current-day ui-datepicker-today ng-star-inserted&quot;]/a[@class=&quot;ui-state-default ng-tns-c23-8 ui-state-active ui-state-highlight ng-star-inserted&quot;]</value>
+      <webElementGuid>c7abd101-e31a-4edd-9f2f-d6a4e9918b78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'13')]</value>
+      <webElementGuid>d91a0aee-3f55-4ee1-a61c-a6122c0154d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::a[13]</value>
+      <webElementGuid>ab5c0893-332d-4241-90a7-e1e1bb1c0631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::a[13]</value>
+      <webElementGuid>cfb54ecb-1d7d-4cc2-9eb4-eba1e9ece572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SKU'])[1]/preceding::a[16]</value>
+      <webElementGuid>f08baf38-6ea6-490f-81fe-513be5dfaeec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/preceding::a[16]</value>
+      <webElementGuid>80e6a82e-bcca-48f9-b7c6-ac3ff541dba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='13']/parent::*</value>
+      <webElementGuid>6a54e3c1-0ba9-44b2-a1cb-b1a3b40cbe46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/a</value>
+      <webElementGuid>ffdc2414-4854-4a1b-b715-b6b6f0624a26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '13' or . = '13')]</value>
+      <webElementGuid>774148fe-4b64-4b15-aa00-cdb8026c06d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
